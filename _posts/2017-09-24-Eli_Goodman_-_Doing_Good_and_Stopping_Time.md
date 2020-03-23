@@ -17,7 +17,7 @@ google_play_episode_link: https://usngr.com/2H7bME4
 headshot: eli_goodman_resized.jpg
 company_logo: headspace_logo_resized.png
 ---
-{% podigee_player page %}
+{{ podigee_player page }}
 ### Show Notes
 
 **Topics:** Continuous Delivery, Managing Engineers, Meditation, Social
