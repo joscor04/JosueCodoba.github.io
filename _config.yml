@@ -86,4 +86,4 @@ itunes_url: "https://itunes.apple.com/us/podcast/YOUR_PODCAST_TITLE/id1234"
 use_isso: no # set to 'yes' to include isso comments form
 
 plugins: [jekyll-octopod]
-theme: jekyll-bootflat
+theme: minima
